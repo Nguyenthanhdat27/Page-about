@@ -1,0 +1,572 @@
+/* Ipad Pro */
+@media (max-width: 1366px) {
+    #container-3 {
+        height: 40vh;
+    }
+    .p-1 {
+        font-size: 50px;
+    }
+    .p-2 {
+        font-size: 25px;
+    }
+    .p-3 {
+        width: auto;
+    }
+    #container-2 {
+        max-height: 60vh;
+    }
+    .img-fluid {
+        max-width: 500px;
+    }
+    #title-logo > h1 {
+        padding-top: 20vh;
+        padding-left: 25vh;
+    }
+    #list-logo {
+        padding-top: 5vh;
+        padding-left: 5vh;
+        height: 250px;
+    }
+    #list-logo > div > img {
+        height: 40px;
+    }
+    .container-5 {
+        height: 95vh !important;
+    }
+    #container-5 {
+        height: 100vh;
+    }
+
+    /* OUR TEAM */
+    #container-6 {
+        height: 80vh;
+    }
+    .card-img-top {
+        margin-left: 20px;
+        max-width: 120px !important;
+    }
+    .card-title {
+        font-size: 15px;
+    }
+    .card-text {
+        font-size: 8px;
+    }
+
+    /* CUSTOMER */
+    #container-7 {
+        height: 50vh;
+        background: #00372d;
+    }
+    .col-md-5 > h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    /* NEWS */
+    #container-8 {
+        height: 40vh;
+    }
+    .card-body > h2 {
+        font-size: 10px;
+    }
+    .card-footer {
+        margin-top: 2vh;
+    }
+    .card-footer > a > img {
+        height: 20px !important;
+    }
+}
+@media (max-width: 1024px) {
+    #container-3 {
+        height: 50vh;
+    }
+    .dropdown_menu {
+        top: 20px;
+        left: 0rem;
+        width: unset;
+    }
+    .p-1 {
+        font-size: 45px;
+    }
+    .p-2 {
+        font-size: 30px;
+    }
+    .p-3 {
+        width: auto;
+    }
+    .img-fluid {
+        max-width: 250px !important;
+    }
+    h1 {
+        padding: 15px;
+    }
+    h2 {
+        padding: 0 15px 0 15px;
+        font-size: 15px;
+    }
+    #container-2 {
+        max-height: 70vh;
+    }
+    #title-logo > h1 {
+        padding-top: 20vh;
+        padding-left: 18vh;
+    }
+    #list-logo {
+        padding-top: 20vh;
+        padding-left: 7vh;
+        height: 150px;
+    }
+    #list-logo > div > img {
+        height: 50px;
+        padding-top: 10px;
+    }
+
+    #container-2 {
+        max-height: 90vh !important;
+    }
+    #container-4 > h2 {
+        padding-left: 150px;
+        font-size: 50px;
+    }
+    .card-img-top {
+        max-width: 120px !important;
+    }
+    .card-title {
+        font-size: 15px;
+    }
+    .card-text {
+        font-size: 8px;
+    }
+    /* CUSTOMER */
+
+    .col-md-5 > h1 {
+        font-size: 20px;
+        line-height: 50px;
+        margin-top: 2% !important;
+    }
+    #customer {
+        margin-top: 2%;
+    }
+    .cus-text > h2 {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .dotted {
+        margin-top: 10px;
+    }
+
+    /* FOOTER */
+    #container-9 {
+        margin-top: 0px;
+        height: 30vh;
+        background: #161616;
+    }
+    .logo-footer > a {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        text-transform: uppercase;
+        color: #ffffff;
+    }
+    .p-2 > h2 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 42px;
+        color: #fff;
+        opacity: 1;
+        padding-top: 50px;
+        padding-left: 0px !important;
+        padding-bottom: 50px;
+    }
+
+    .p-2 > h3 {
+        font-size: 8px;
+        padding-top: 30px;
+    }
+
+    .p-2-footer > h1 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 45px;
+        color: #f0f0f0;
+        opacity: 0.6;
+        padding-left: 0px;
+        margin-bottom: 50px;
+    }
+
+    .col-sm-6 > p {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 30px;
+        color: #f0f0f0;
+    }
+    .p-2-footer > h3 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 30px;
+        color: #f0f0f0;
+    }
+
+    /* NEWS */
+    #container-8 {
+        height: 40vh;
+    }
+    .card-body > h2 {
+        font-size: 10px;
+    }
+    .card-footer {
+        margin-top: 5vh;
+    }
+    .card-footer > a > img {
+        height: 20px;
+    }
+}
+@media (max-width: 812px) {
+    .navbar .link,
+    .navbar .action_btn {
+        display: none;
+    }
+    .navbar .toggle_btn {
+        display: block;
+    }
+    .dropdown_menu {
+        display: block;
+    }
+    #container-2 {
+        max-height: 100vh !important;
+    }
+    .p-1 {
+        font-size: 15px;
+    }
+    .p-2 {
+        font-size: 20px;
+    }
+    #container-4 > h2 {
+        padding-left: 220px;
+        font-size: 22px !important;
+    }
+    .container-5 {
+        height: 100vh !important;
+    }
+    #title-logo > h1 {
+        padding-top: 5vh !important;
+        padding-left: 10vh !important;
+    }
+    #list-logo > div > img {
+        padding-top: 30px;
+        height: 70px;
+    }
+    /* OUR TEAM */
+    .card-img-top {
+        margin-left: 20px;
+        max-width: 100px !important;
+    }
+    .card-title {
+        font-size: 10px;
+    }
+    .card-text {
+        margin-left: 15px;
+        font-size: 6px;
+    }
+    /* CUSTOMER */
+    #container-7 {
+        height: 80vh !important;
+    }
+
+    /* FOOTER */
+    #container-9 {
+        margin-top: 0px;
+        height: 35vh;
+    }
+    .logo-footer > a {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    .p-2 > h2 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 42px;
+    }
+
+    .p-2 > h3 {
+        font-size: 5px;
+    }
+
+    .p-2-footer > h1 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 45px;
+        opacity: 0.6;
+        padding-left: 0px;
+        margin-bottom: 50px;
+    }
+
+    .col-sm-6 > p {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 30px;
+    }
+    .p-2-footer > h3 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 30px;
+    }
+    .card-footer > a > img {
+        height: 15px !important;
+    }
+}
+/* Tablet */
+@media (max-width: 600px) {
+    #container-2 {
+        max-height: 110vh;
+    }
+    #container-3 {
+        height: 70vh;
+    }
+    .dropdown_menu {
+        top: 20px;
+        left: 0rem;
+        width: unset;
+    }
+    .p-1 {
+        font-size: 20px !important;
+    }
+    .p-2 {
+        font-size: 5px;
+    }
+    .p-3 {
+        width: auto;
+    }
+    .img-fluid {
+        max-width: 400px;
+    }
+    h1 {
+        padding: 5px;
+    }
+    h2 {
+        padding: 0 5px 0 5px;
+        font-size: 15px;
+    }
+    #container-4 > h2 {
+        font-size: 30px;
+        padding-left: 60px;
+        padding-top: 10px;
+    }
+
+    .img-fluid {
+        height: 20vh;
+    }
+    #title-logo > h1 {
+        padding-top: 20vh;
+        padding-left: 25vh;
+    }
+    #list-logo {
+        padding-top: 5vh;
+        padding-left: 5vh;
+        height: 250px;
+    }
+    #list-logo > div > img {
+        height: 50px;
+    }
+    .container-5 {
+        height: 100vh !important;
+    }
+
+    /* OUR TEAM */
+    #container-6 {
+        height: 120vh;
+    }
+    .card-img-top {
+        margin-left: 20px;
+        max-width: 60px !important;
+    }
+    .card-title {
+        font-size: 10px;
+    }
+    .card-text {
+        margin: 0 !important;
+        font-size: 4px;
+    }
+    /* CUSTOMER */
+
+    .col-md-5 > h1 {
+        font-size: 8px;
+        line-height: 20px;
+        margin-top: 2% !important;
+    }
+    #customer {
+        margin-top: 2%;
+    }
+    .cus-text > h2 {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .dotted {
+        margin-top: 5px !important;
+    }
+    .col-md-4 > img {
+        max-height: 10vh;
+    }
+    /* FOOTER */
+    #container-9 {
+        margin-top: 0px;
+        height: 45vh;
+    }
+    .logo-footer > a {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+    }
+
+    .p-2 > h2 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 30px;
+    }
+    .p-2 > a {
+        font-size: 8px;
+    }
+
+    .p-2 > h3 {
+        font-size: 5px;
+    }
+
+    .p-2-footer > h1 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 13px;
+        line-height: 20px;
+        opacity: 0.6;
+        padding-left: 0px;
+        margin-bottom: 50px;
+    }
+
+    .col-sm-6 > p {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 25px;
+    }
+    .p-2-footer > h3 {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 20px;
+    }
+    .card-footer > a > img {
+        height: 10px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .dropdown_menu {
+        top: 20px;
+        left: 0rem;
+        width: unset;
+    }
+    .img-fluid {
+        max-width: 250px;
+    }
+    .p-1 {
+        font-size: 35px;
+    }
+    .p-2 {
+        font-size: 20px;
+    }
+    .p-3 {
+        width: auto;
+    }
+
+    .img-fluid {
+        max-width: 400px;
+    }
+    /* NEWS */
+    #container-8 {
+        height: 60vh;
+    }
+    .card-body > h2 {
+        font-size: 6px;
+    }
+    .card-footer {
+        margin-top: 5vh;
+    }
+    .card-footer > a > img {
+        height: 10px;
+    }
+}
+/* IOS */
+@media (max-width: 576px) {
+    .dropdown_menu {
+        top: 10px;
+        left: 0rem;
+        width: unset;
+    }
+    .p-1 {
+        font-size: 20px;
+    }
+    .p-2 {
+        font-size: 10px;
+    }
+    .btn {
+        font-size: 0.5rem;
+        font-size: 0.6rem;
+    }
+    .img-fluid {
+        max-width: 200px;
+    }
+    #container-2 {
+        max-height: 230vh !important;
+        top: 80vh;
+    }
+    h1 {
+        padding: 2px;
+        font-size: 15px;
+    }
+    h2 {
+        padding: 0 2px 0 2px;
+        font-size: 10px;
+    }
+    .img-fluid {
+        height: 20vh;
+    }
+    .my-5 {
+        margin: 1px 0 !important;
+    }
+    #container-4 {
+        height: 255vh;
+    }
+
+    .container-5 {
+        height: 130vh !important;
+    }
+    #container-5 {
+        padding-right: 0 !important;
+        height: 130vh;
+    }
+
+    #container-6 {
+        height: 100vh;
+    }
+}
